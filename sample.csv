@@ -1,0 +1,4 @@
+name,email,phone,address
+John Doe,john@example.com,1234567890,123 Elm Street
+Jon Doe,john.d@example.com,1234567890,123 Elm St.
+Jane Smith,jane@example.com,,456 Oak Avenue
